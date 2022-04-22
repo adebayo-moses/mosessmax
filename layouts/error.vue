@@ -4,7 +4,7 @@
       <h3>{{ error.message }}</h3>
 
       <p>
-        Something went a bit awry. You can also reach out to me on
+        Something went a bit awry :(. You can also reach out to me on
         <a target="_blank" rel="noopener" href="https://twitter.com/michaelpumo"
           >Twitter</a
         >

@@ -15,6 +15,10 @@ module.exports = {
     'plugin:nuxt/recommended',
   ],
   plugins: ['prettier'],
-  rules: {},
+  rules: {
+    "eqeqeq": "off",
+        "curly": "warn",
+        "quotes": ["warn", "double"]
+  },
   ignorePatterns: ['node_modules/**'],
 }
